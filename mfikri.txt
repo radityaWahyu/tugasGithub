@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+   Saya ingin menghasilkan projek-projek yang berhubungan dengan jurusan RPL, dan dapat menghasilkan cuan
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+   Setelah mendapat cerita dari seseorang yang pernah masuk RPL saya menjadi termotivasi untuk masuk RPL
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+   https://github.com/FikriRpl/tugas-pertama.git
