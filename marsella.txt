@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+Ingin terus belajar dan mengatasi berbagai tantangan dalam pemrograman serta berfikir kreatif dan mengembangkan perangkat lunak yang inofativ.
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+Karena saya mempunyai minat untuk berkerasi dan menghasilkan ide dan teknolgi terbaru dalam pemrograman.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+https://github.com/MarsellaDevianiRahmaPratiwi/BelajarGithub
