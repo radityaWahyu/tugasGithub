@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+   jawaban:pingin belajar cyber security
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?  
+   jawaban:bingung pilih jurusan karena dulu niatnya sekolah sma + di sarankan orang tua
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+   jawaban:https://github.com/igededavape/tugasGithub.git
