@@ -1,0 +1,3 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL? kemauan saya ketika sudah masuk jurusan RPL yaitu saya bisa belajar dan paham tentang pemograman karena pemograman suatu saat akan dibutuhkan dan adanya perkembangan dunia it.
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL? alasan saya ingin masuk RPL karena semua perusahaan membutuhkan tenaga dibidang IT.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
