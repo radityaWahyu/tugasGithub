@@ -1,7 +1,0 @@
-1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
-   Saya ingin belajar lebih jauh tentang bahasa pemrograman
-
-2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
-   Saya ingin bekerja dengan mudah, maksutnya bisa bekerja dimanapun dan kapanpun tanpa terikat tempat waktu juga dengan gaji yang lumayan besar 
-
-3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :https://github.com/AmaliaAfidatulAini/BelajarGithub
