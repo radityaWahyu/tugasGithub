@@ -1,0 +1,13 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+	
+	- Mempelajari berbagai ilmu seputar pemrograman dan mendalami berbagai Framework, dan Library 
+	sebagai bekal saya untuk terjun ke dunia industri. 
+
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+
+	- Saya ingin menjadi seorang Front-End developer 
+	
+
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini : 
+
+	-https://github.com/andranovia/tugas-github
