@@ -1,0 +1,9 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+   Untuk Menjadi Progammer yang kreatif dimasa mendatang 
+
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+   Tidak ada alasan mengapa saya masuk RPL 
+
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+   https://github.com/bhilbis/TugasGithub.git
+   
