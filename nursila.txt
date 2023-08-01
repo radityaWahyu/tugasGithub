@@ -1,0 +1,9 @@
+NAMA	 : Nursila Yusmitha Angghani
+NO ABSEN : 27
+
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+	Saya berkeinginan untuk mengembangkan keterampilan dalam pemrograman dan pengembangan perangkat lunak agar bisa menciptakan program yang inovatif.
+2. Jelaskan alasan kalian kenapa ingin masuk RPL?
+	Saya penasaran dengan dunia pemrograman.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+	https://github.com/nursilayusmitha/Tugasgithub_NursilaYusmitha.git
