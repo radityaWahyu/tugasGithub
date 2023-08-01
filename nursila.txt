@@ -6,4 +6,4 @@ NO ABSEN : 27
 2. Jelaskan alasan kalian kenapa ingin masuk RPL?
 	Saya penasaran dengan dunia pemrograman.
 3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
-	https://github.com/nursilayusmitha/Tugasgithub_NursilaYusmitha.git
+	https://github.com/nursilayusmitha/Tugasgithub.git
