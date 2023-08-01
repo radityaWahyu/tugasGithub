@@ -1,0 +1,10 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+   ingin memiliki pemahaman lebih tentang bahasa pemograman
+
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+   karena saya ingin mendapatkan karir yang baik dan menjajikan,karena lulusan RPL memiliki bayak pilihan karir.
+   kita dapat menjadi pengembang perangkat lunak,analis sistem,arsitek perangkat lunak,atau bahkan memilih untuk menjadi wirausaha
+   dengan mengembangkan aplikasi/perangkat lunak sendiri
+
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+   https://github.com/SalwaDiahMawardah/Belajargithub
