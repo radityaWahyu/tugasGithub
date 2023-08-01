@@ -3,3 +3,4 @@ Saya mau menjadi salah satu penggerak di bidang teknologi, saya ingin memperdala
 2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
 Saya memiliki minat yang kuat dalam bidang teknologi terutama pemrograman, dan saya yakin jurusan RPL bisa memberi saya kesempatan untuk mengembangkan keterampilan dan pengetahuan di bidang ini.
 3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+https://github.com/davarezza/davakull
