@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+	Soalnya saudara saya programmer lulusan smk dan alhamdulillah duitnya ngalir di programming,jadi saya pengen juga:D
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+	Ingin uangnya ngalir soalnya mau secepatnya membantu ekonomi keluarga dan kerja dibidang informatika itu sekarang sangat menjanjikan.
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+	https://github.com/muhlefi/TugasAwal_MLefiR_11RPL
