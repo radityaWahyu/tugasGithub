@@ -1,0 +1,9 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+: Saya mau belajar tentang pembuatan Website, UI/UX, dan membuat game, dan juga saya mau ketika saya lulus dari Sekolah dan jurusan RPL saya mau apply untuk Computer Science Bachelor
+
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+: Alasan ingin masuk RPL karena ingin kuliah di ITS atau aplly beasiswa diluar serta prospek kerja untuk jurusan RPL sangat luas
+
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+
+github.com/LevianVian/belajarGithub
