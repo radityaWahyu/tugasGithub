@@ -1,0 +1,7 @@
+
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+Saya ingin menjadi expert programmer
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+Saya ingin mengasah kemampuan design, mempelajari cara pembuatan web, aplikasi dan pengelolaan database
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+https://github.com/adeliaamantaa/belajargithub

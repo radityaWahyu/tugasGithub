@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+-ingin bisa meningkatkan ketekunan dan ketelitian dalam mengoding
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+-karena teknolgi akan semakiin berkembang
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+https://github.com/Lolafitarosa/tugasGithub.git
