@@ -1,0 +1,6 @@
+1. Silahkan deskripsikan kemauan kalian ketika sudah masuk jurusan RPL?
+   Jawab : Ingin mempelajari hal baru.
+2. Jelaskan Alasan kalian kenapa ingin masuk RPL?
+   Jawab : Dapat memasuki budang industri kerja, karena tidak hanya membahas seputar software computer 
+3. Tuliskan link github dengan repository yang sudah kalian buat untuk tugas ini :
+	https://github.com/Meccaa
